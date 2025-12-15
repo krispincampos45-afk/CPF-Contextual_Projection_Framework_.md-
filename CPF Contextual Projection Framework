@@ -1,0 +1,143 @@
+# Contextual Projection Framework (CPF)
+
+**Author:** Crispin-Elicea Campos  
+**Tijuana, BC, México**  
+**15 de diciembre de 2025**
+
+---
+
+### Abstract
+
+We introduce the Contextual Projection Framework (CPF), in which quantum phenomena are understood as manifestations conditioned by contextual projection structures rather than as consequences of ontological dualities, dynamical collapse, or retrocausal effects. The framework reformulates measurement, complementarity, delayed choice, quantum erasure, and decoherence as consequences of structural incompatibility between contextual projections defined on the Hilbert space. Without modifying the standard quantum formalism, the CPF unifies these phenomena under a single geometric principle and yields a general No-Paradox Theorem: quantum paradoxes arise exclusively from the simultaneous application of incompatible contextual frameworks.
+
+---
+
+### 1. Introduction
+
+Quantum mechanics remains empirically unmatched yet conceptually fragmented. Core phenomena—wave–particle duality, complementarity, delayed choice, and quantum erasure—are traditionally treated as distinct interpretive challenges, often invoking collapse, epistemic limits, or nonclassical temporality. Despite decades of interpretive refinement, these approaches leave intact a narrative in which quantum systems appear to alter their nature in response to observation.
+
+Here we propose an alternative: the paradoxes of quantum mechanics do not originate in the behavior of physical systems, but in the structural constraints imposed by observational contexts. We formalize this idea through the Contextual Projection Framework (CPF), in which observable phenomena arise from the interaction between a quantum state and a contextual projection that defines which subspace of the Hilbert space is accessible.
+
+---
+
+### 2. Contextual Frameworks and Projections
+
+**Definition 1 (Contextual Framework)**
+
+A contextual framework \(\mathcal{C}\) is defined by a projection operator
+
+\[
+\Pi_{\mathcal{C}} : \mathcal{H} \rightarrow \mathcal{H}_{\mathcal{C}},
+\]
+
+Observable phenomena are associated not with \(|\psi\rangle\) alone, but with the ordered pair:
+
+\[
+(|\psi\rangle, \mathcal{C}).
+\]
+
+---
+
+### 3. Complementarity as Structural Incompatibility
+
+**Definition 2 (Compatibility)**
+
+Two contextual frameworks \(\mathcal{C}_1\) and \(\mathcal{C}_2\) are compatible if
+
+\[
+[\Pi_{\mathcal{C}_1}, \Pi_{\mathcal{C}_2}] = 0.
+\]
+
+**Theorem 1 (Structural Complementarity)**
+
+No quantum state can be simultaneously manifested under two incompatible contextual frameworks.
+
+**Proof.**  
+If a state \(|\psi\rangle\) were observable in both frameworks, it would be invariant under both projections, implying commutativity. This contradicts incompatibility. ∎
+
+This formulation replaces Bohr’s principle of complementarity with a geometric constraint.
+
+---
+
+### 4. Quantitative Complementarity
+
+We recover the standard visibility–distinguishability trade-off by considering partial contextual projections encoded by nonorthogonal detector states. The inequality
+
+\[
+V^2 + D^2 \leq 1
+\]
+
+emerges naturally as a constraint on simultaneous partial access to incompatible contextual subspaces.
+
+---
+
+### 5. Delayed Choice
+
+In delayed-choice experiments, the CPF assigns physical relevance only to the final contextual framework. The quantum state evolves unitarily until a projection is defined. No retrocausal influence is required; the phenomenon reflects the late specification of the contextual subspace.
+
+---
+
+### 6. Quantum Erasure
+
+Quantum erasure does not restore lost coherence. Instead, it replaces one contextual framework with another that is compatible with interference. Conditional interference patterns arise from subspace selection, not information deletion.
+
+---
+
+### 7. Generalization to POVMs and Decoherence
+
+POVMs are interpreted as generalized contextual frameworks defining regions of compatibility rather than sharp subspaces. Environmental decoherence corresponds to the stabilization of a dominant contextual framework imposed by uncontrollable degrees of freedom, rendering alternative projections inaccessible without invoking collapse.
+
+---
+
+### 8. The No-Paradox Theorem
+
+**Theorem 2 (No-Paradox)**
+
+All quantum paradoxes arise from the simultaneous application of incompatible contextual frameworks.
+
+This theorem dissolves foundational paradoxes by identifying them as category errors in framework attribution rather than indicators of nonphysical behavior.
+
+---
+
+### 9. Discussion
+
+The Contextual Projection Framework preserves the full predictive power of quantum mechanics while eliminating the need for dual ontologies, collapse postulates, retrocausality, or observer-dependent realities. It unifies diverse quantum phenomena through a single structural principle.
+
+---
+
+### 10. Schrödinger’s Cat as a Category Error
+
+The Schrödinger cat thought experiment is often presented as the ultimate demonstration of quantum absurdity: a macroscopic system allegedly occupying a superposition of mutually exclusive classical states. Within the Contextual Projection Framework (CPF), this conclusion is not merely unnecessary but formally invalid.
+
+Consider the composite system consisting of a microscopic quantum trigger, a macroscopic amplification apparatus, and the cat itself. The global quantum state evolves unitarily into an entangled superposition of the form
+
+\[
+|\Psi\rangle = \alpha |{\rm decay}\rangle |{\rm cat\ dead}\rangle + \beta |{\rm no\ decay}\rangle |{\rm cat\ alive}\rangle.
+\]
+
+This state is well-defined within the full Hilbert space of the composite system. However, the paradox arises only when classical macroscopic predicates (“alive” and “dead”) are simultaneously attributed within a contextual framework in which such superpositions are not accessible.
+
+Within the CPF, the question is not what the cat is, but under which contextual framework the system is being manifested. Two distinct contextual frameworks are relevant:
+
+1. A global quantum framework, in which the composite state is treated as a single vector in Hilbert space and no macroscopic classical predicates are defined.
+
+2. A macroscopic classical framework, stabilized by environmental decoherence, in which the system is projected onto robust, effectively orthogonal subspaces corresponding to classical outcomes.
+
+These frameworks are structurally incompatible. Their associated projection operators do not commute. Consequently, no single contextual projection allows simultaneous access to both the global superposed description and definite macroscopic states.
+
+The assertion that “the cat is both alive and dead” therefore constitutes a category error: it applies macroscopic classical predicates within a framework in which they are undefined. Under no physically accessible contextual framework does the cat occupy a simultaneous alive-and-dead state.
+
+No physical collapse is required to resolve the paradox, nor is recourse to multiple worlds or observer-dependent reality. Environmental decoherence merely stabilizes the macroscopic contextual framework, rendering alternative projections dynamically inaccessible. The cat is always manifested as either alive or dead within any physically realizable macroscopic framework.
+
+Thus, within the CPF, Schrödinger’s cat does not represent a deep mystery of nature but a misattribution of properties across incompatible contextual frameworks. The paradox dissolves as a direct corollary of the No-Paradox Theorem.
+
+---
+
+### 11. Conclusion
+
+Quantum mechanics does not require paradoxical entities, only careful accounting of the contextual structures through which phenomena are accessed. The Contextual Projection Framework provides a minimal, conservative, and unifying foundation upon which further formal and experimental work may be constructed.
+
+---
+
+**Tijuana, BC, México**  
+**15 de diciembre de 2025**
